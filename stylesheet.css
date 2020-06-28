@@ -1,0 +1,53 @@
+
+
+a {
+    text-decoration: none;
+  }
+.explanation{
+    text-align: center;
+    color:#55acee;
+    font-size:14px;
+}
+.contents-canpany{
+    float:left;
+    width:33%;
+    text-align: center;
+}
+
+
+.txt-contents{
+    width:80%;
+    display: inline-block;
+    margin:15px;
+    font-size: 12px;
+}
+
+.canpany-form{
+    margin-top:60px;
+    text-align:center;
+}
+.canpany-form h2{
+   color:#55acee;
+}
+
+.under-line {
+    border-bottom:solid;
+    border-width: 5px;
+    border-color: gray;
+}
+
+.btn {
+    padding: 20px 80px;
+    color: white;
+    display: inline-block;
+    opacity: 1;
+    border-radius: 40px;
+}
+  
+.btn:hover {
+    opacity: 0.6;
+}
+
+.form {
+    background-color:#55acee;
+}
