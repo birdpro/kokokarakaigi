@@ -8,7 +8,7 @@ a {
     color:#55acee;
     font-size:14px;
 }
-.contents-canpany{
+.contents-company{
     float:left;
     width:33%;
     text-align: center;
@@ -22,11 +22,11 @@ a {
     font-size: 12px;
 }
 
-.canpany-form{
+.company-form{
     margin-top:60px;
     text-align:center;
 }
-.canpany-form h2{
+.company-form h2{
    color:#55acee;
 }
 
